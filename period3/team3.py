@@ -7,8 +7,8 @@
 ####
 
 team_name = 'Team 3' # Only 10 chars displayed.
-strategy_name = 'Conditional Test'
-strategy_description = 'The program will compare the '
+strategy_name = 'Collude until betrayed.'
+strategy_description = 'Collude until betrayed. Collude first round. Collude, unless betrayed; then always betray.'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
